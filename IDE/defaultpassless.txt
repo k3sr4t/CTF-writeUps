@@ -69,7 +69,7 @@ router
 changethis
 default
 alpine
-ubuntu
+Ubuntu
 kali
 arch
 linuxserver
@@ -78,6 +78,7 @@ BackupU$r
 Master
 Helpdesk
 SUper
+Super
 super
 sudo
 please
